@@ -1,0 +1,20 @@
+{
+  "name": "mongo-rest-server",
+  "version": "1.0.0",
+  "description": "A rest server using mongo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "rajpaswan.in@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "moment": "^2.22.2",
+    "mongoose": "^5.1.7"
+  }
+}
