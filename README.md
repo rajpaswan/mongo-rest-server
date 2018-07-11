@@ -12,7 +12,7 @@ npm install
 
 ### Configure Server
 
-Edit `.env` file to manager your enviroment configuration.  
+Edit `.env` file to manage your enviroment configuration.  
 
 ```bash
 # db settings
